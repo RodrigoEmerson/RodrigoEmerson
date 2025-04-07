@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 ![Rodrigo Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoemerson&show_icons=true&theme=dark)
 
 --->
+[****](https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg)
