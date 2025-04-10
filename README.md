@@ -1,3 +1,12 @@
+<!--- PARTE SUPERIOR DA PÁGINA --->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=Black&descAlign=16&descAlignY=75&fontAlignY=37&reversal=true&section=header" >
+
+
+
+<!--- PARTE INFERIOR DA PÁGINA --->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black&descAlign=16&descAlignY=75&fontAlignY=37&reversal=true&section=footer" >
+
+
 - 👋 Hi, I’m @RodrigoEmerson
 - 👀 I’m interested in ... Learning more and more
 - 🌱 I’m currently learning ... Python and JS
