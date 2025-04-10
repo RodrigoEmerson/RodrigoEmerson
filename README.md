@@ -21,6 +21,12 @@
 <div align="center">
   <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/narutogif.gif">
 </div>
+<!--- NARUTO GIF --->
+<div align="center">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/GIF-NARUTO.gif" style="width: 500px; height: auto;">
+</div>
+
+
 
 <!---
 RodrigoEmerson/RodrigoEmerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
