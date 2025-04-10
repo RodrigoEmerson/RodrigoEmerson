@@ -2,18 +2,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=Black&descAlign=16&descAlignY=75&fontAlignY=37&reversal=true&section=header" >
 
 
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Eu sou Rodrigo Emerson 👋 <br>
 
-<!--- PARTE INFERIOR DA PÁGINA --->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black&descAlign=16&descAlignY=75&fontAlignY=37&reversal=true&section=footer" >
+👩‍🎓 Estudante da FAM
+👩🏻‍💻 Sou estudande de Sistemas da informação
+⚡apaixonado por tecnologia.<br>
+  <br>
+</div>
 
 
-- 👋 Hi, I’m @RodrigoEmerson
-- 👀 I’m interested in ... Learning more and more
-- 🌱 I’m currently learning ... Python and JS
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
-- 😄 Pronouns: ... I
-- ⚡ Fun fact: ... ?
+
 
 <!---
 RodrigoEmerson/RodrigoEmerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,4 +75,30 @@ You can click the Preview link to take a look at your changes.
 
 
 --->
-![Contador de visitas~](https://profile-counter.glitch.me/RodrigoEmerson/count.svg) 
+
+
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/RodrigoEmerson/count.svg" /></p> 
+  <br>
+</div>
+
+
+
+<!--- PARTE INFERIOR DA PÁGINA --->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black&descAlign=16&descAlignY=75&fontAlignY=37&reversal=true&section=footer" >
+
+
+
+
+<!---
+- 👋 Hi, I’m @RodrigoEmerson
+- 👀 I’m interested in ... Learning more and more
+- 🌱 I’m currently learning ... Python and JS
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ...
+- 😄 Pronouns: ... I
+- ⚡ Fun fact: ... ?
+--->
