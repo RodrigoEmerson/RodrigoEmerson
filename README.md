@@ -17,16 +17,24 @@
   <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/lineBar.png">
 </div>
 
-<!--- GIF Naruto --->
+
+<!--- GIF Naruto 
 <div align="center">
   <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/narutogif.gif">
 </div>
+--->
+
+
 <!--- NARUTO GIF --->
 <div align="center">
-  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/GIF-NARUTO.gif" style="width: 500px; height: auto;">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/3dgifmaker55784.gif" style="width: 700px; height: auto;">
 </div>
 
 
+<!--- Line Bar --->
+<div>
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/lineBar.png">
+</div>
 
 <!---
 RodrigoEmerson/RodrigoEmerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
