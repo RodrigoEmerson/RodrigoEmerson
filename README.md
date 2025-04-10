@@ -12,13 +12,15 @@
 </div>
 
 
-<!---
-Line Bar
---->
+<!--- Line Bar --->
 <div>
-  <img src= "https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/lineBar.png">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/lineBar.png">
 </div>
 
+<!--- GIF Naruto --->
+<div align="center">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/narutogif.gif">
+</div>
 
 <!---
 RodrigoEmerson/RodrigoEmerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
