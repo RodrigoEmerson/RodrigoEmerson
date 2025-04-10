@@ -12,6 +12,12 @@
 </div>
 
 
+<!---
+Line Bar
+--->
+<div>
+  <img src= "https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/lineBar.png">
+</div>
 
 
 <!---
