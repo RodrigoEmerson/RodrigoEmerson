@@ -78,6 +78,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+
+
+
+
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
