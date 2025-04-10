@@ -6,8 +6,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Eu sou Rodrigo Emerson 👋 <br>
 
-👩‍🎓 Estudante da FAM
-👩🏻‍💻 Sou estudande de Sistemas da informação
+👩‍🎓 Estudante da FAM 👩🏻‍💻 em Sistemas da informação
 ⚡apaixonado por tecnologia.<br>
   <br>
 </div>
