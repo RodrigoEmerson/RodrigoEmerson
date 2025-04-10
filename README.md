@@ -4,7 +4,7 @@
 
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Eu sou Rodrigo Emerson 👋 <br>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <br> Eu sou Rodrigo Emerson 👋 <br>
 
 👩‍🎓 Estudante da FAM 👩🏻‍💻 em Sistemas da informação
 ⚡apaixonado por tecnologia.<br>
