@@ -34,7 +34,7 @@
 <div align="center">
   <h1>My Stack</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,python,java,spring,html,css,js,angular,ts,nodejs,github,mongodb,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,java,spring,html,css,js,ts,angular,nodejs,github,mongodb,postgres&theme=dark" />
   </a>
 </div>
 
