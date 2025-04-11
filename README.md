@@ -27,7 +27,7 @@
 
 <!--- NARUTO GIF --->
 <div align="center">
-  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/3dgifmaker97741.gif" style="width: 700px; height: auto;">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/gif-naruto-0933.gif" style="width: 700px; height: auto;">
 </div>
 
 
