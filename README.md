@@ -14,7 +14,7 @@
 
 <!--- Line Bar --->
 <div>
-  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/lineBar.png">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/lineBar.png">
 </div>
 
 
@@ -33,7 +33,7 @@
 
 <!--- Line Bar --->
 <div>
-  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/lineBar.png">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/lineBar.png">
 </div>
 
 <!---
