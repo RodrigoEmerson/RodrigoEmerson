@@ -6,11 +6,16 @@
   
   ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <br> Eu sou Rodrigo Emerson 👋 <br>
   
-  👩‍🎓 Estudante da FAM 👩🏻‍💻 em Sistemas da informação
-  ⚡apaixonado por tecnologia.<br>
+  👨‍💻 Estudante de Sistemas de Informação na FAM  
+⚡ Apaixonado por tecnologia e inovação  <br>
   <br>
 </div>
 
+<div align="center">
+  
+#### 🔰 Meus conhecimentos nas linguagens abaixo ainda são básicos, mas estou em constante aprendizado e evolução.
+<br>
+</div>
 
 <!--- Line Bar --->
 <div>
@@ -32,7 +37,11 @@
 </div>
 
 
+
+
 <div align="center">
+
+
 
 # Linguagens de Programação
 
@@ -91,7 +100,7 @@
   <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/lineBar.png">
 </div>
 
-<div align="center")
+<div align="center">
   
 # Rede Social
 
