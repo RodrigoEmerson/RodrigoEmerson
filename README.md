@@ -18,18 +18,6 @@
 </div>
 
 
-<!--- NARUTO GIF --->
-<div align="center">
-  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/gif-naruto-0933.gif" style="width: 700px; height: auto;">
-</div>
-
-
-<!--- Line Bar --->
-<div>
-  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/lineBar.png">
-</div>
-
-
 <!--- My Stack --->
 <div align="center">
   <h1>My Stack</h1>
@@ -116,6 +104,15 @@
   <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/lineBar.png">
 </div>
 
+<!--- NARUTO GIF --->
+<div align="center">
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/gif-naruto-0933.gif" style="width: 700px; height: auto;">
+</div>
+
+<!--- Line Bar --->
+<div>
+  <img src="https://github.com/RodrigoEmerson/RodrigoEmerson/blob/main/imgs/lineBar.png">
+</div>
 
 <!-- Contador de Visitantes -->
 <div align="center">
@@ -127,8 +124,6 @@
 
 <!--- PARTE INFERIOR DA PÁGINA --->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black&descAlign=16&descAlignY=75&fontAlignY=37&reversal=true&section=footer" >
-
-
 
 
 
