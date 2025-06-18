@@ -1,3 +1,5 @@
+<!--- [![DIO](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md) --->
+
 <!--- PARTE SUPERIOR DA PÁGINA --->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=Black&descAlign=16&descAlignY=75&fontAlignY=37&reversal=true&section=header" >
 
